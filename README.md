@@ -31,4 +31,3 @@ A command line interface (CLI) application designed for efficient task managemen
    ```bash
    npm start
    ```
-# task-tracker
