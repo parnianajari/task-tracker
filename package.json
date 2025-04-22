@@ -1,0 +1,19 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "CLI based Task Tracker",
+  "author": "Parnia Najari",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "todo",
+    "task-manager"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "node": "^23.11.0"
+  }
+}
